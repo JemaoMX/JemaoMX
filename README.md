@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JemaoMX
+- 👀 I’m interested in digital evolution 
+- 🌱 I’m currently learning devops 
